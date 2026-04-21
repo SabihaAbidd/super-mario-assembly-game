@@ -16,3 +16,12 @@ To run this project, you need a DOS emulator:
    ```asm
    nasm -f bin Source.asm -o game.com  ;(Or use MASM/TASM depending on your code)
    game.com
+
+   ## 🎬 Gameplay Demo
+   
+
+https://github.com/user-attachments/assets/af68456b-61ac-4a91-a9db-ec3aa50f80b6
+
+
+
+
